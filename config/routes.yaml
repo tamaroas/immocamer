@@ -1,0 +1,6 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+imocamer:
+     path: /
+     controller: App\Controller\ImocamerController::index
